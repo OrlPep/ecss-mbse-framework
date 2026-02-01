@@ -128,7 +128,7 @@ The methodology combines:
 
 ## 📚 Documentation
 
-- **[Quick Start Guide](docs/QUICK_START.md)** - Get started in 10 minutes
+- **[Quick Start Guide](ecss-mbse-framework/docs/QUICK_START.md)** - Get started in 10 minutes
 - **[ECSS Standards Guide](docs/ECSS_STANDARDS_GUIDE.md)** - Overview of key ECSS standards
 - **[MBSE Methodology](docs/MBSE_METHODOLOGY.md)** - How to use MBSE for process engineering
 - **[Templates Guide](docs/TEMPLATES_GUIDE.md)** - Detailed explanation of each template
