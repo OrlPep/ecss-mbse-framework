@@ -447,7 +447,7 @@ Major contributions may result in:
 
 - **GitHub Discussions**: For general questions
 - **GitHub Issues**: For specific problems
-- **Email**: ginevra.cianci@polito.it (maintainer)
+- **Email**: ginevra.cianci@gmail.it (maintainer)
 
 ### Learning ECSS
 
